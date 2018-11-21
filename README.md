@@ -5,7 +5,7 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Review](#review)
 - [Turbulence Closure](#Turbulence-Closure)
 - [Flow Field Approximation](#Flow-Field-Approximation)
-- [Particle Image Velometry](#Particle-Imag-Velometry)
+- [Particle Image Velocimetry](#particle-image-velocimetry)
 - [Others](#others)
   
 # Review
@@ -62,7 +62,7 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 [[link]](https://arxiv.org/abs/1810.08217)
 
 
-# Particle Image Velometry
+# Particle Image Velocimetry
 
 - [Machine Learning Control for Experimental Turbulent Flow Targeting the Reduction of a Recirculation Bubble]
   Camila Chovet, Marc Lippert, Laurent Keirsbulck, Bernd R. Noack and Jean-Marc Foucaut 2017
