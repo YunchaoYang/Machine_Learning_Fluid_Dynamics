@@ -5,8 +5,8 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Review](#review)
 - [Turbulence Closure](#turbulence)
 - [Flow Field Approximation](#flow)
-- [Airfoil lift prediction](#lift)
-
+- [Others](#others)
+  
 ## Review
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
 - [Turbulence modeling in the age of data] K Duraisamy, G Iaccarino, H Xiao - Annual Review of Fluid  2018, [[link]](
@@ -57,7 +57,7 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 - [Well, how accurate is it? A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations]  N Thuerey, K Weissenow, H Mehrotra 2018
 [[link]](https://arxiv.org/abs/1810.08217)
 
-## Airfoil lift prediction
+# Others
 
 - [Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient] Yao Zhang, Woong-Je Sung, Dimitri Mavris
 2017, [[link]](https://arxiv.org/pdf/1712.10082)
