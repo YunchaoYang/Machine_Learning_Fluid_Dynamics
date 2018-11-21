@@ -1,4 +1,5 @@
-# Machine_Learning_Fluid_Dynamics
+# Machine Learning in Fluid Dynamics
+
 A curated list of awesome Machine Learning projects in Fluid Dynamics
 
 ## Overview
