@@ -3,8 +3,8 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 
 ## Overview
 - [Review](#review)
-- [Turbulence Closure](#turbulence)
-- [Flow Field Approximation](#flow)
+- [Turbulence Closure](#Turbulence-Closure)
+- [Flow Field Approximation](#Flow-Field-Approximation)
 - [Others](#others)
   
 # Review
