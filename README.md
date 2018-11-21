@@ -5,7 +5,7 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Review](#review)
 - [Turbulence Closure](#turbulence)
 - [Flow Field Approximation](#flow)
-- [Turbulence Closure](#turbulence)
+- [Airfoil lift prediction](#lift)
 
 ## Review
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
