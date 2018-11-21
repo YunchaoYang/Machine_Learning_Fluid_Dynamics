@@ -70,5 +70,5 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 DJ Linse, RF Stengel - Journal of Guidance, Control, and Dynamics, 1993,
 [[link]](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA244711)
 
-Performance predicting of 2D and 3D submerged hydrofoils using  CFD and ANNs, H Nowruzi, H Ghassemi, M Ghiasi - Journal of Marine Science and …, 2017, 
+- [Performance predicting of 2D and 3D submerged hydrofoils using  CFD and ANNs], H Nowruzi, H Ghassemi, M Ghiasi - Journal of Marine Science and …, 2017, 
 [[link]](https://link.springer.com/article/10.1007/s00773-017-0443-0)
