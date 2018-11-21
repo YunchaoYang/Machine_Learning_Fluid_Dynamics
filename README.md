@@ -13,8 +13,7 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010518-040547)
 
 # Turbulence Closure
-- [Reynolds averaged turbulence modelling using deep neural networks with embedded invariance]
-] J Ling, A Kurzawski, J Templeton - Journal of Fluid Mechanics, 2016  [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0B280EEE89C74A7BF651C422F8FBD1EB/S0022112016006157a_hi.pdf/_div_class__title__Reynolds_averaged_turbulence_modelling_using_deep_neural_networks_with_embedded_invariance__div_.pdf)
+- [Reynolds averaged turbulence modelling using deep neural networks with embedded invariance] J Ling, A Kurzawski, J Templeton - Journal of Fluid Mechanics, 2016  [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0B280EEE89C74A7BF651C422F8FBD1EB/S0022112016006157a_hi.pdf/_div_class__title__Reynolds_averaged_turbulence_modelling_using_deep_neural_networks_with_embedded_invariance__div_.pdf)
 
 - [Evaluation of machine learning algorithms for prediction of regions of high Reynolds averaged Navier Stokes uncertainty]
 J Ling, J Templeton - Physics of Fluids, 2015, [[link]](
