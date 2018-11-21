@@ -7,12 +7,12 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Flow Field Approximation](#flow)
 - [Others](#others)
   
-## Review
+# Review
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
 - [Turbulence modeling in the age of data] K Duraisamy, G Iaccarino, H Xiao - Annual Review of Fluid  2018, [[link]](
 https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010518-040547)
 
-## Turbulence Closure
+# Turbulence Closure
 - [Reynolds averaged turbulence modelling using deep neural networks with embedded invariance]
 ] J Ling, A Kurzawski, J Templeton - Journal of Fluid Mechanics, 2016  [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0B280EEE89C74A7BF651C422F8FBD1EB/S0022112016006157a_hi.pdf/_div_class__title__Reynolds_averaged_turbulence_modelling_using_deep_neural_networks_with_embedded_invariance__div_.pdf)
 
@@ -44,7 +44,7 @@ AD Beck, DG Flad, CD Munz 2018
 A. Vollant, G. Balarac & C. Corre[[link]](https://www.tandfonline.com/doi/abs/10.1080/14685248.2017.1334907)
 
 
-## Flow Field Approximation
+# Flow Field Approximation
 
 - [Convolutional neural networks for steady flow approximation] -Guo, X., Li, W., & Iorio, F. 2016  KDD [[link]](
 https://www.autodeskresearch.com/sites/default/files/ADSK-KDD2016.pdf)
