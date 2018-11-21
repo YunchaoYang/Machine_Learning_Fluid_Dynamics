@@ -13,7 +13,6 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 https://www.annualreviews.org/doi/pdf/10.1146/annurev-fluid-010518-040547)
 
 
-
 # Turbulence Closure
 - [Reynolds averaged turbulence modelling using deep neural networks with embedded invariance] J Ling, A Kurzawski, J Templeton - Journal of Fluid Mechanics, 2016  [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0B280EEE89C74A7BF651C422F8FBD1EB/S0022112016006157a_hi.pdf/_div_class__title__Reynolds_averaged_turbulence_modelling_using_deep_neural_networks_with_embedded_invariance__div_.pdf)
 
@@ -70,3 +69,6 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 - [Identification of aerodynamic coefficients using computational neural networks]
 DJ Linse, RF Stengel - Journal of Guidance, Control, and Dynamics, 1993,
 [[link]](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA244711)
+
+Performance predicting of 2D and 3D submerged hydrofoils using  CFD and ANNs, H Nowruzi, H Ghassemi, M Ghiasi - Journal of Marine Science and …, 2017, 
+[[link]](https://link.springer.com/article/10.1007/s00773-017-0443-0)
