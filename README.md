@@ -5,6 +5,7 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Review](#review)
 - [Turbulence Closure](#Turbulence-Closure)
 - [Flow Field Approximation](#Flow-Field-Approximation)
+- [Particle Image Velometry](#Particle-Imag-Velometry)
 - [Others](#others)
   
 # Review
@@ -61,8 +62,19 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 [[link]](https://arxiv.org/abs/1810.08217)
 
 
+# Particle Image Velometry
+
+- [Machine Learning Control for Experimental Turbulent Flow Targeting the Reduction of a Recirculation Bubble]
+  Camila Chovet, Marc Lippert, Laurent Keirsbulck, Bernd R. Noack and Jean-Marc Foucaut 2017
+  [[link]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2659908)
+  
+- [PIV-DCNN: cascaded deep convolutional neural networks for particle image velocimetry]
+  Y Lee, H Yang, Z Yin - Experiments in Fluids, 2017
+  [[link]]( https://link.springer.com/article/10.1007/s00348-017-2456-1)
+  
 # Others
 
+## Lift and drag prediction
 - [Application of Convolutional Neural Network to Predict Airfoil Lift Coefficient] Yao Zhang, Woong-Je Sung, Dimitri Mavris
 2017, [[link]](https://arxiv.org/pdf/1712.10082)
 
@@ -73,16 +85,11 @@ DJ Linse, RF Stengel - Journal of Guidance, Control, and Dynamics, 1993,
 - [Performance predicting of 2D and 3D submerged hydrofoils using  CFD and ANNs], H Nowruzi, H Ghassemi, M Ghiasi - Journal of Marine Science and …, 2017, 
 [[link]](https://link.springer.com/article/10.1007/s00773-017-0443-0)
 
+## Flow Control
 - [Closed-loop separation control using machine learning]
 N Gautier, JL Aider, T Duriez, BR Noack… - Journal of Fluid Mechanics 2015 
 [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D28454120D1B533531BE9DADC9DF2548/S0022112015000956a.pdf/closedloop_separation_control_using_machine_learning.pdf)
 
- - [Machine Learning Control for Experimental Turbulent Flow Targeting the Reduction of a Recirculation Bubble]
-  Camila Chovet, Marc Lippert, Laurent Keirsbulck, Bernd R. Noack and Jean-Marc Foucaut 2017
-  [[link]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2659908)
-  
- - [PIV-DCNN: cascaded deep convolutional neural networks for particle image velocimetry]
-  Y Lee, H Yang, Z Yin - Experiments in Fluids, 2017
-  [[link]]( https://link.springer.com/article/10.1007/s00348-017-2456-1)
+ 
   
   
