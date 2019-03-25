@@ -8,7 +8,7 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Flow Field Approximation](#Flow-Field-Approximation)
 - [Particle Image Velocimetry](#particle-image-velocimetry)
 - [Others](#others)
-  
+- [Mutliphase flow](#multiphase)
 # Review
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
 - [Turbulence modeling in the age of data] K Duraisamy, G Iaccarino, H Xiao - Annual Review of Fluid  2018, [[link]](
@@ -91,6 +91,7 @@ DJ Linse, RF Stengel - Journal of Guidance, Control, and Dynamics, 1993,
 N Gautier, JL Aider, T Duriez, BR Noack… - Journal of Fluid Mechanics 2015 
 [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D28454120D1B533531BE9DADC9DF2548/S0022112015000956a.pdf/closedloop_separation_control_using_machine_learning.pdf)
 
+# Multiphase
  
   
   
