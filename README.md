@@ -92,6 +92,11 @@ N Gautier, JL Aider, T Duriez, BR Noack… - Journal of Fluid Mechanics 2015
 [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D28454120D1B533531BE9DADC9DF2548/S0022112015000956a.pdf/closedloop_separation_control_using_machine_learning.pdf)
 
 # Multiphase
- 
+[Using statistical learning to close two-fluid multiphase flow equations for a simple bubbly system]
+M Ma, J Lu, G Tryggvason - Physics of Fluids, 2015
+ [[link]](https://aip.scitation.org/doi/pdf/10.1063/1.4930004?class=pdf)
+-[Sharp interface approaches and deep learning techniques for multiphase flows]
+F Gibou, D Hyde, R Fedkiw - Journal of Computational Physics, 2019 
+ [[link]](https://www.sciencedirect.com/science/article/pii/S0021999118303371)
   
   
