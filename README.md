@@ -60,14 +60,14 @@ https://www.autodeskresearch.com/sites/default/files/ADSK-KDD2016.pdf)
 
 - [Accelerating eulerian fluid simulation with convolutional networks]
 J Tompson, K Schlachter, P Sprechmann, 2016 -
-[[Paper]](https://arxiv.org/pdf/1607.03597) | [code](https://github.com/google/FluidNet)
+[[Paper]](https://arxiv.org/pdf/1607.03597) | [[code]](https://github.com/google/FluidNet)
 
 
 - [Well, how accurate is it? A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations]  N Thuerey, K Weissenow, H Mehrotra 2018
 [[link]](https://arxiv.org/abs/1810.08217)  
 
 - Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations Nils Thuerey, K. Weissenow, L. Prantl, Xiangyu Hu
-[Project](https://ge.in.tum.de/publications/2018-deep-flow-pred/) [paper](https://arxiv.org/pdf/1810.08217.pdf) [code](https://github.com/thunil/Deep-Flow-Prediction)
+[Project](https://ge.in.tum.de/publications/2018-deep-flow-pred/) [[paper]](https://arxiv.org/pdf/1810.08217.pdf) [[code]](https://github.com/thunil/Deep-Flow-Prediction)
 
 ### repos
 - [machine learning applied to cfd] (https://github.com/AndreWeiner/machine-learning-applied-to-cfd)- examples of how to use machine learning (ML) algorithms in the field of computational fluid dynamics (CFD).
