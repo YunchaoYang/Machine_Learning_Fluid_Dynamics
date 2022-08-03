@@ -1,7 +1,6 @@
 # Machine Learning in Fluid Dynamics
 
-A curated list of awesome Machine Learning projects in Fluid Dynamics
-
+A curated list of awesome Machine Learning (Deep Learning) projects in Fluid Dynamics.
 
 
 ## Overview
@@ -11,7 +10,8 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Particle Image Velocimetry](#particle-image-velocimetry)
 - [Mutliphase flow](#multiphase)
 - [Others](#others)
-
+- [Quickstart examples](#quick)
+- [Tools](#tools)
 # Review
 - [Machine learning for fluid mechanics] [[link]](https://www.annualreviews.org/doi/full/10.1146/annurev-fluid-010719-060214) Brunton, Steven L., Bernd R. Noack, and Petros Koumoutsakos. Annual review of fluid mechanics 52 (2020): 477-508.
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
