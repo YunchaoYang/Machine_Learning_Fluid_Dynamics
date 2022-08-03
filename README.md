@@ -9,8 +9,8 @@ A curated list of awesome Machine Learning projects in Fluid Dynamics
 - [Turbulence Closure](#Turbulence-Closure)
 - [Flow Field Approximation](#Flow-Field-Approximation)
 - [Particle Image Velocimetry](#particle-image-velocimetry)
-- [Others](#others)
 - [Mutliphase flow](#multiphase)
+- [Others](#others)
 
 # Review
 - [Machine learning for fluid mechanics] [[link]](https://www.annualreviews.org/doi/full/10.1146/annurev-fluid-010719-060214) Brunton, Steven L., Bernd R. Noack, and Petros Koumoutsakos. Annual review of fluid mechanics 52 (2020): 477-508.
@@ -56,16 +56,23 @@ A. Vollant, G. Balarac & C. Corre[[link]](https://www.tandfonline.com/doi/abs/10
 https://www.autodeskresearch.com/sites/default/files/ADSK-KDD2016.pdf)
 
 - [Data‐driven projection method in fluid simulation] -C Yang, X Yang, X Xiao - Computer Animation and Virtual, 2016
-[[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1695)
+[[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1695) 
 
 - [Accelerating eulerian fluid simulation with convolutional networks]
 J Tompson, K Schlachter, P Sprechmann, 2016 -
-[[link]](https://arxiv.org/pdf/1607.03597)
+[[Paper]](https://arxiv.org/pdf/1607.03597) | [code](https://github.com/google/FluidNet)
 
 
 - [Well, how accurate is it? A Study of Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations]  N Thuerey, K Weissenow, H Mehrotra 2018
-[[link]](https://arxiv.org/abs/1810.08217)
+[[link]](https://arxiv.org/abs/1810.08217)  
 
+- Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations Nils Thuerey, K. Weissenow, L. Prantl, Xiangyu Hu
+[Project](https://ge.in.tum.de/publications/2018-deep-flow-pred/) [paper](https://arxiv.org/pdf/1810.08217.pdf) [code](https://github.com/thunil/Deep-Flow-Prediction)
+
+### repos
+- [machine learning applied to cfd] (https://github.com/AndreWeiner/machine-learning-applied-to-cfd)- examples of how to use machine learning (ML) algorithms in the field of computational fluid dynamics (CFD).
+- [Computational Fluid Dynamics Machine Learning Examples](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples) This repo contains some tutorial type programs showing some basic ways machine learning can be applied to CFD.
+-
 
 # Particle Image Velocimetry
 
