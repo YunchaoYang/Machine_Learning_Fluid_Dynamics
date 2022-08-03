@@ -12,7 +12,7 @@ A curated list of awesome Machine Learning (Deep Learning) projects in Fluid Dyn
 - [Others](#others)
 - [Quickstart examples](#quickstart-examples)
 - [Tools](#tools)
-- [Special Topics](#special-tipics)
+- [Special Topics](#special-topics)
 # Review
 - [Machine learning for fluid mechanics] [[link]](https://www.annualreviews.org/doi/full/10.1146/annurev-fluid-010719-060214) Brunton, Steven L., Bernd R. Noack, and Petros Koumoutsakos. Annual review of fluid mechanics 52 (2020): 477-508.
 - [Deep learning in fluid dynamics] Kutz 2017 JFM, [[link]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2EDDAB89563DE5157FC4B8342AD9C70/S002211201600803Xa.pdf/div-class-title-deep-learning-in-fluid-dynamics-div.pdf)
@@ -119,7 +119,13 @@ F Gibou, D Hyde, R Fedkiw - Journal of Computational Physics, 2019
 
 # Special Topics
 - [On the spectral bias of neural networks] Rahaman, Nasim, et al. International Conference on Machine Learning. PMLR, 2019.
-
-
+- [Fourier network]
+- [DeepONet]
+- [Finite-dimensional operators]
+- [Neural-FEM]
+- [Neural Operators]
+- [Fourier Transform]
+- [Adaptive fourier neural operators]
+- [Physics Informed Neural Operator]
 
   
