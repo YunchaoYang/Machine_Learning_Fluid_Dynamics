@@ -69,10 +69,14 @@ J Tompson, K Schlachter, P Sprechmann, 2016 -
 - Deep Learning Methods for Reynolds-Averaged Navier-Stokes Simulations Nils Thuerey, K. Weissenow, L. Prantl, Xiangyu Hu
 [Project](https://ge.in.tum.de/publications/2018-deep-flow-pred/) [[paper]](https://arxiv.org/pdf/1810.08217.pdf) [[code]](https://github.com/thunil/Deep-Flow-Prediction)
 
+- [Deep Learning for Flow Sculpting: Insights into Efficient Learning using Scientific Simulation Data] [[paper]](https://www.nature.com/articles/srep46368) Daniel Stoecklein, Kin Gwn Lore, Michael Davies, Soumik Sarkar, Baskar Ganapathysubramanian, 2017
+
 ### repos
 - [machine learning applied to cfd] (https://github.com/AndreWeiner/machine-learning-applied-to-cfd)- examples of how to use machine learning (ML) algorithms in the field of computational fluid dynamics (CFD).
 - [Computational Fluid Dynamics Machine Learning Examples](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples) This repo contains some tutorial type programs showing some basic ways machine learning can be applied to CFD.
--
+- Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks [project](https://github.com/loliverhennigh/latnet)
+
+
 
 # Particle Image Velocimetry
 
