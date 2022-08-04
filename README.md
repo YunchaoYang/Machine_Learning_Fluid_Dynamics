@@ -1,6 +1,6 @@
 # Machine Learning in Fluid Dynamics
 
-A curated list of awesome Machine Learning (Deep Learning) projects in Fluid Dynamics.
+A curated list of awesome Machine Learning (Deep Learning) projects in Fluid Dynamics topics, including Computational Fluid Dynamics (CFD), turbulence modeling, non-Newtonian fluids, Hemodynamics, PIV measurement, Geophysical fluid dynamics, Aeroelasticity, multiphase flow, etc.
 
 
 ## Overview
